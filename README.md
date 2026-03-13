@@ -49,12 +49,12 @@ I hold certifications in **Google Cloud (GCP ACE)** and **Oracle Cloud (OCI Mult
 - Ansible - configuration management and post-provisioning automation
 - Bash - operational scripting and tooling
 - Git + GitHub Actions - version control and CI/CD pipelines
+- Prometheus + Grafana - observability for containerized network functions
 
 **Currently Learning**
 - Go (Golang) - building infrastructure tooling and network CLIs
 - Free5GC / Open5GS - open source 5G SA core for lab environments
 - ArgoCD - GitOps for cloud-native network function deployments
-- Prometheus + Grafana - observability for containerized network functions
 
 ---
 

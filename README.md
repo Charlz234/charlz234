@@ -1,4 +1,4 @@
-# Charles Okojie - Packet Core and Cloud SME
+# Idemudia Charles Okojie - Packet Core and Cloud SME
 
 > Packet Core + Private Cloud + 5G | GCP Certified | OCI Multicloud Architect | Lagos, Nigeria → Remote
 

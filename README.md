@@ -1,4 +1,4 @@
-# Charles Okojie - Telecom Cloud Engineer
+# Charles Okojie - Packet Core and Cloud SME
 
 > Packet Core + Private Cloud + 5G | GCP Certified | OCI Multicloud Architect | Lagos, Nigeria → Remote
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Telecom Cloud Engineer at **Ericsson Nigeria** with hands-on production experience operating and maintaining 5G and LTE packet core networks deployed on private cloud infrastructure.
+I'm a Packet Core and Cloud SME at **Ericsson Nigeria** with hands-on production experience operating and maintaining 5G and LTE packet core networks deployed on private cloud infrastructure.
 
 My work sits at the intersection of two worlds that rarely meet - **carrier-grade telecom** and **cloud-native infrastructure**. As the industry migrates from hardware appliances to containerized network functions, engineers who understand both sides are increasingly hard to find.
 

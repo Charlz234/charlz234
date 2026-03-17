@@ -41,7 +41,7 @@ I hold certifications in **Google Cloud (GCP ACE)** and **Oracle Cloud (OCI Mult
 
 **Cloud Platforms**
 - Google Cloud Platform - certified, infrastructure and governance
-- Oracle Cloud Infrastructure - certified multicloud architecture and design
+- Oracle Cloud Infrastructure - certified, multicloud architecture and design
 - Multicloud strategy and hybrid connectivity
 
 **Infrastructure & Automation**
